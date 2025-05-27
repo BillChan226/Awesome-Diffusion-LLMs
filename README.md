@@ -1,8 +1,8 @@
-# Awesome Diffusion Large Language Models (LLMs) 🎈
+# Awesome Diffusion Large Language Models (DLMs) 🎈
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of research papers, code, models, datasets, and methods for **diffusion-based** large language models (2023 – 2025).
+> A curated list of research papers, code, models, datasets, and methods for **diffusion-based** large language models (2024 – 2025).
 
 *Pull requests welcome – see [Contributing](#contributing).*
 
