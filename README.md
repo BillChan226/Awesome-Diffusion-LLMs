@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of research papers, code, models, datasets, and methods for **diffusion-based** large language models (2024 – 2025).
+> A curated list of research papers, code, models, datasets, and methods for **diffusion-based** large language models (2024 – now).
 
 *Pull requests welcome – see [Contributing](#contributing).*
 
@@ -74,5 +74,5 @@ If you find this list useful, please cite it:
   title  = {Awesome Diffusion Large Language Models},
   author = {Community},
   year   = {2025},
-  url    = {https://github.com/your-org/awesome-diffusion-llms}
+  url    = {https://github.com/BillChan226/Awesome-Diffusion-LLMs}
 }
